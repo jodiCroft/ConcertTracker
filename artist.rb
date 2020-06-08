@@ -1,3 +1,5 @@
+class Artist
+
 #attributes: name(string), age(int), energy_level(int)
 #attributes: top_song(string), setlist(array of strings), performances_given(int)
 
@@ -10,3 +12,5 @@
 #make_political_statement if political allegience is conservative leave early, otherwise energy up
 
 #end_show announce the show is over and end the program
+
+end 
