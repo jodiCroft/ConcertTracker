@@ -3,7 +3,7 @@ class Performance
     #attributes: location(city), venue(stadium), date("MM/DD/YYYY"), time(military)
 
     attr_accessor :time, :date
-    attr_reader :location, venue
+    attr_reader :location, :venue
 
     @@all = []
 
