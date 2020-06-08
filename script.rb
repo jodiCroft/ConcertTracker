@@ -1,5 +1,5 @@
 require 'pry'
-Dir["*.rb"].each {|file| require file }
+Dir["./*.rb"].each {|file| require file }
 
 #variables for testing here
 
